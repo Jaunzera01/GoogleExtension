@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Nome da extensão",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eget sagittis nibh. Nunc et interdum tellus. Aenean in luctus massa, sed convallis libero. Vivamus vitae quam varius, mollis ante nec, aliquet tortor. Nam eget scelerisque magna. Donec ut odio nec elit porttitor tempus id eu lacus. Duis semper dui tortor, sed sagittis augue tincidunt at. Vestibulum auctor leo metus, id suscipit nulla pulvinar at. Nulla facilisi. Suspendisse eget elementum justo. Vivamus sed elit lectus. Integer scelerisque lobortis est id mollis. Quisque dolor lacus, varius quis bibendum in, suscipit ut magna. Cras rhoncus in arcu tempor malesuada. Nam in leo nec dui scelerisque vehicula non eu ex. Morbi pharetra, tortor aliquam pretium placerat, tortor ipsum finibus ipsum, et volutpat eros justo vitae est.",
+    "author": "Seu nome",
+    "browser_action":{
+        "default_title": "Título",
+        "default_popup": "index.html"
+    }
+}
